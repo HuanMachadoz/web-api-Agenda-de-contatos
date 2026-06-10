@@ -6,6 +6,7 @@ Web API simples de **Agenda de Contatos** desenvolvida com **ASP.NET Core Minima
 
 -Huan Machado
 -Felipe Gabriel Da Silva
+-Igor Theodoro
 
 ## Descrição do sistema
 
